@@ -1,3 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Écran Fantaisie</string>
+    <string name="email_label">Courriel</string>
+    <string name="extension_label">Extension</string>
+    <string name="department_label">Département</string>
+    <string name="supervisor_label">Superviseur</string>
+    <string name="direct_reports_label">Rapports directs</string>
+    <string name="profile_image_desc">Photo de profil</string>
+    <string name="profile_image">Image de profil</string>
 </resources>
